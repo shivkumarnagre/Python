@@ -1,4 +1,4 @@
-'''Write a python program to check whether the given character is vowel or consonant.
+'''Write a python program to check whether the given character is vowel or consonant
 
 Input format:
 
